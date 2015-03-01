@@ -2,3 +2,6 @@
 	+ initial commit
 * 0.1.0.2
 	+ added .gitignore
+* 0.1.1.1
+	+ added todo_notify_2 script and config
+	+ changed ariv_notify config a bit (removed misleading space)
