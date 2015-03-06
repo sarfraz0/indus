@@ -5,3 +5,6 @@
 * 0.1.1.1
 	+ added todo_notify_2 script and config
 	+ changed ariv_notify config a bit (removed misleading space)
+* 0.1.1.2
+	+ suppression de todo_notify_2
+	+ mise a jour de dllrange to be more constent with indus

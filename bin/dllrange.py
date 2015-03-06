@@ -7,13 +7,19 @@
 import os
 import logging
 from net.shksystem.common.utils import init_logger
-import net.shksystem.scripts.dllrange as dllrange 
+import net.shksystem.scripts.dllrange as dllrange
 
 def main():
+    current_dir = os.getcwd()
+    if 'INDUS_HOME' in os.environ:
+        os.chdir(os.path.join(os.environ['INDUS_HOME'], 'bin'))
+
     logger = logging.getLogger()
     init_logger(logger, os.path.join(os.path.abspath('../var/log'), dllrange.base_name + '.out'), logging.INFO)
 
     dllrange.run_rules()
+
+    os.chdir(current_dir)
 
 if __name__ == '__main__':
      main()
