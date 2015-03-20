@@ -10,3 +10,5 @@
 	+ mise a jour de dllrange to be more constent with indus
 * 0.1.1.3
 	+ added rssget script (and config)
+* 0.1.1.4
+	+ changed init_logger call to correspond new API

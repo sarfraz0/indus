@@ -17,8 +17,7 @@ if __name__ == '__main__':
     if 'INDUS_HOME' in os.environ:
         os.chdir(os.path.join(os.environ['INDUS_HOME'], 'bin'))
 
-    logger = logging.getLogger()
-    init_logger(logger, os.path.join(os.path.abspath('../var/log'), base_name + '.out'), logging.INFO)
+    logger = init_logger(os.path.join(os.path.abspath('../var/log'), base_name + '.out'), logging.INFO)
     arg = "" if sys.argv[1] is None else sys.argv[1]
     run_recipients(arg)
 
