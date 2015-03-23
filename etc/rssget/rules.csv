@@ -1,5 +1,2 @@
-test,test,test,1
-test,test,test,1
-test,test,test,2
-tast,tast,tast,1
-tist,tist,tist,2
+"Fairy Tail","^.*fairy.*tail.*$",1
+"Aldnoah Zero","^.*aldnoah.*zero.*$",1
