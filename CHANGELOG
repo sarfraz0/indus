@@ -12,3 +12,5 @@
 	+ added rssget script (and config)
 * 0.1.1.4
 	+ changed init_logger call to correspond new API
+* 0.1.1.5
+	+ added new configuration for rssget
