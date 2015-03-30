@@ -13,4 +13,6 @@
 * 0.1.1.4
 	+ changed init_logger call to correspond new API
 * 0.1.1.5
+	+ rssget is stable in shksystem, added ini configuration
+* 0.1.1.6
 	+ added new configuration for rssget
