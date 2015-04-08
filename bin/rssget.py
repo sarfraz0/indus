@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
 ## Author  : Sarfraz Kapasi
@@ -8,19 +8,15 @@
 import os
 import sys
 import logging
-from net.shksystem.common.utils   import init_logger
-from net.shksystem.scripts.rssget import base_name, run_feeds
+from net.shksystem.common.utils import init_logger
+import net.shksystem.scripts.rssget as rssget
+
+def main():
+    logger = init_logger('/indus/var/log/rssget.out', logging.INFO)
+    rssget.run_feeds('/indus/etc/rssget.ini')
+
 
 if __name__ == '__main__':
-
-    current_dir = os.getcwd()
-    if 'INDUS_HOME' in os.environ:
-        os.chdir(os.path.join(os.environ['INDUS_HOME'], 'bin'))
-
-    logger = init_logger(os.path.join(os.path.abspath('../var/log/rssget.out')), logging.DEBUG)
-
-    run_feeds()
-
-    os.chdir(current_dir)
+    main()
 
 #0
