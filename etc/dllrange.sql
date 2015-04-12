@@ -55,3 +55,16 @@ INSERT INTO rules(title, regex, dest) VALUES ('Yahari Ore no Seishun Love Come w
 INSERT INTO rules(title, regex, dest) VALUES ('Re-Kan!', '^.*re.*kan.*$', '/mnt/share/Videos/Animations Japonaises');
 INSERT INTO rules(title, regex, dest) VALUES ('Danna ga Nani wo Itteiru ka Wakaranai Ken S2', '^.*danna.*ga.*nani.*wo.*itteiru.*ka.*wakaranai.*ken.*s2.*$', '/mnt/share/Videos/Animations Japonaises');
 INSERT INTO rules(title, regex, dest) VALUES ('Takamiya Nasuno Desu!', '^.*takamiya.*nasuno.*desu.*$', '/mnt/share/Videos/Animations Japonaises');
+
+INSERT INTO rules(title, regex, dest) VALUES ('Kekkai Sensen', '^.*kekkai.*sensen.*$', '/mnt/share/Videos/Animations Japonaises');
+INSERT INTO rules(title, regex, dest) VALUES ('Nisekoi S2', '^.*nisekoi.*s2.*$', '/mnt/share/Videos/Animations Japonaises');
+INSERT INTO rules(title, regex, dest) VALUES ('Saint Seiya - Soul of Gold', '^.*saint.*seiya.*soul.*of.*gold.*$', '/mnt/share/Videos/Animations Japonaises');
+INSERT INTO rules(title, regex, dest) VALUES ('Punch Line', '^.*punch.*line.*$', '/mnt/share/Videos/Animations Japonaises');
+INSERT INTO rules(title, regex, dest) VALUES ('Urawa no Usagi-chan', '^.*urawa.*no.*usagi.*chan.*$', '/mnt/share/Videos/Animations Japonaises');
+INSERT INTO rules(title, regex, dest) VALUES ('Etotama', '^.*etotama.*$', '/mnt/share/Videos/Animations Japonaises');
+INSERT INTO rules(title, regex, dest) VALUES ('Ghost in the Shell Arise - Alternative Architecture', '^.*ghost.*in.*the.*shell.*arise .*alternative.*architecture.*$', '/mnt/share/Videos/Animations Japonaises');
+INSERT INTO rules(title, regex, dest) VALUES ('Mikagura Gakuen Kumikyoku', '^.*mikagura.*gakuen.*kumikyoku.*$', '/mnt/share/Videos/Animations Japonaises');
+INSERT INTO rules(title, regex, dest) VALUES ('Houkago no Pleiades', '^.*houkago.*no.*pleiades.*$', '/mnt/share/Videos/Animations Japonaises');
+INSERT INTO rules(title, regex, dest) VALUES ('Gintama S3', '^.*gintama.*s3.*$', '/mnt/share/Videos/Animations Japonaises');
+INSERT INTO rules(title, regex, dest) VALUES ('Kyoukai no Rinne', '^kyoukai.*no.*rinne.*$', '/mnt/share/Videos/Animations Japonaises');
+INSERT INTO rules(title, regex, dest) VALUES ('Hibike! Euphonium', '^.*hibike.*euphonium.*$', '/mnt/share/Videos/Animations Japonaises');

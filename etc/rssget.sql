@@ -72,3 +72,16 @@ INSERT INTO rules(title, regex, feed_id) VALUES ('Yahari Ore no Seishun Love Com
 INSERT INTO rules(title, regex, feed_id) VALUES ('Re-Kan!', '^.*re.*kan.*$', 2);
 INSERT INTO rules(title, regex, feed_id) VALUES ('Danna ga Nani wo Itteiru ka Wakaranai Ken S2', '^.*danna.*ga.*nani.*wo.*itteiru.*ka.*wakaranai.*ken.*s2.*$', 2);
 INSERT INTO rules(title, regex, feed_id) VALUES ('Takamiya Nasuno Desu!', '^.*takamiya.*nasuno.*desu.*$', 2);
+
+INSERT INTO rules(title, regex, feed_id) VALUES ('Kekkai Sensen', '^.*kekkai.*sensen.*$', 2);
+INSERT INTO rules(title, regex, feed_id) VALUES ('Nisekoi S2', '^.*nisekoi.*s2.*$', 2);
+INSERT INTO rules(title, regex, feed_id) VALUES ('Saint Seiya - Soul of Gold', '^.*saint.*seiya.*soul.*of.*gold.*$', 2);
+INSERT INTO rules(title, regex, feed_id) VALUES ('Punch Line', '^.*punch.*line.*$', 2);
+INSERT INTO rules(title, regex, feed_id) VALUES ('Urawa no Usagi-chan', '^.*urawa.*no.*usagi.*chan.*$', 2);
+INSERT INTO rules(title, regex, feed_id) VALUES ('Etotama', '^.*etotama.*$', 2);
+INSERT INTO rules(title, regex, feed_id) VALUES ('Ghost in the Shell Arise - Alternative Architecture', '^.*ghost.*in.*the.*shell.*arise .*alternative.*architecture.*$', 2);
+INSERT INTO rules(title, regex, feed_id) VALUES ('Mikagura Gakuen Kumikyoku', '^.*mikagura.*gakuen.*kumikyoku.*$', 2);
+INSERT INTO rules(title, regex, feed_id) VALUES ('Houkago no Pleiades', '^.*houkago.*no.*pleiades.*$', 2);
+INSERT INTO rules(title, regex, feed_id) VALUES ('Gintama S3', '^.*gintama.*s3.*$', 2);
+INSERT INTO rules(title, regex, feed_id) VALUES ('Kyoukai no Rinne', '^kyoukai.*no.*rinne.*$', 2);
+INSERT INTO rules(title, regex, feed_id) VALUES ('Hibike! Euphonium', '^.*hibike.*euphonium.*$', 2);
