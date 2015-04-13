@@ -20,3 +20,5 @@
 	+ added rssget and dllrange in production (and production rework)
 * 0.1.2.2
 	+ added some entries to dllrange.sql and rssget.sql
+* 0.1.2.3
+	+ added some entries to dllrange.sql and rssget.sql
