@@ -84,3 +84,5 @@ INSERT INTO rules(title, regex, feed_id) VALUES ('Houkago no Pleiades', '^.*houk
 INSERT INTO rules(title, regex, feed_id) VALUES ('Gintama S3', '^.*gintama.*s3.*$', 2);
 INSERT INTO rules(title, regex, feed_id) VALUES ('Kyoukai no Rinne', '^kyoukai.*no.*rinne.*$', 2);
 INSERT INTO rules(title, regex, feed_id) VALUES ('Hibike! Euphonium', '^.*hibike.*euphonium.*$', 2);
+
+INSERT INTO rules(title, regex, feed_id) VALUES ('Ninja Slayer', '^.*ninja.*slayer.*$', 2);

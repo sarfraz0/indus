@@ -1,0 +1,22 @@
+{
+    "DB_URI": "psycopg2+postgresql://rssget:rssget@localhost/rssget",
+    "LOG_PATH": "/indus/var/log/rssget.out",
+    "EMAIL":
+    {
+	"USER": "sarfraz@variablentreprise.com",
+	"HOST": "mail.gandi.net",
+	"PORT": 587,
+	"FROM": "sarfraz@varialblentreprise.com",
+	"TO": ["sarfraz@variablentreprise.com", "mahera.fidaly@gmail.com", "f.fidaly@gmail.com"]
+    },
+    "TRANSMISSION":
+    {
+	"HOST": "192.168.1.8",
+	"PORT": 9091
+    },
+    "CELERY":
+    {
+	"BACKEND_URI": "amqp://",
+	"BROCKER_URI": "amqp://"
+    }
+}

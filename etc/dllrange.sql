@@ -67,3 +67,5 @@ INSERT INTO rules(title, regex, dest) VALUES ('Houkago no Pleiades', '^.*houkago
 INSERT INTO rules(title, regex, dest) VALUES ('Gintama S3', '^.*gintama.*s3.*$', '/mnt/share/Videos/Animations Japonaises');
 INSERT INTO rules(title, regex, dest) VALUES ('Kyoukai no Rinne', '^kyoukai.*no.*rinne.*$', '/mnt/share/Videos/Animations Japonaises');
 INSERT INTO rules(title, regex, dest) VALUES ('Hibike! Euphonium', '^.*hibike.*euphonium.*$', '/mnt/share/Videos/Animations Japonaises');
+
+INSERT INTO rules(title, regex, dest) VALUES ('Ninja Slayer', '^.*ninja.*slayer.*$', '/mnt/share/Videos/Animations Japonaises');
