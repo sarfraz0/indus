@@ -24,3 +24,6 @@
 	+ added some entries to dllrange.sql and rssget.sql
 * 0.1.2.4
 	+ added json for new rssget
+* 0.1.2.5
+    + finalized rewrite of rssget
+    + got missing inserts for rssget

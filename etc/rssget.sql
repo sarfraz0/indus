@@ -82,7 +82,10 @@ INSERT INTO rules(title, regex, feed_id) VALUES ('Ghost in the Shell Arise - Alt
 INSERT INTO rules(title, regex, feed_id) VALUES ('Mikagura Gakuen Kumikyoku', '^.*mikagura.*gakuen.*kumikyoku.*$', 2);
 INSERT INTO rules(title, regex, feed_id) VALUES ('Houkago no Pleiades', '^.*houkago.*no.*pleiades.*$', 2);
 INSERT INTO rules(title, regex, feed_id) VALUES ('Gintama S3', '^.*gintama.*s3.*$', 2);
-INSERT INTO rules(title, regex, feed_id) VALUES ('Kyoukai no Rinne', '^kyoukai.*no.*rinne.*$', 2);
+INSERT INTO rules(title, regex, feed_id) VALUES ('Kyoukai no Rinne', '^.*kyoukai.*no.*rinne.*$', 2);
 INSERT INTO rules(title, regex, feed_id) VALUES ('Hibike! Euphonium', '^.*hibike.*euphonium.*$', 2);
+
+INSERT INTO rules(title, regex, feed_id) VALUES ('Ore Monogatari!!', '^.*ore.*monogatari.*$', 2);
+INSERT INTO rules(title, regex, feed_id) VALUES ('Triage X', '^.*triage.*x.*$', 2);
 
 INSERT INTO rules(title, regex, feed_id) VALUES ('Ninja Slayer', '^.*ninja.*slayer.*$', 2);
