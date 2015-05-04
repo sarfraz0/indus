@@ -27,3 +27,5 @@
 * 0.1.2.5
     + finalized rewrite of rssget
     + got missing inserts for rssget
+* 0.1.2.6
+    + added feed script and configuration
